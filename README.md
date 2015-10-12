@@ -1,5 +1,5 @@
 # LeetCode solutions: Java
 
-I will keep posting my codes here, hopefully with detailed explanation and different approaches.  
+I will keep posting my solutions here, hopefully with detailed explanation and different approaches.  
 
-Leetcode OJ: <https://leetcode.com>
+LeetCode OJ: <https://leetcode.com>
